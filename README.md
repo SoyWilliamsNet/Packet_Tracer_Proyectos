@@ -18,9 +18,12 @@ En él construiremos una topología básica de red con un router, un switch y do
 - Tema orientado a preparación para la certificación Cisco DEVNET Associate (especialmente en la parte de redes básicas y topologías)
 
 ## 🧩 Estructura del repositorio
+El proyecto está organizado de la siguiente manera:
+
 MiPrimeraRed_PacketTracer/
-├── MiPrimeraRed.pkt ← Archivo del laboratorio para abrir en Packet Tracer
-└── README.md ← Este archivo (documentación del proyecto)
+├── MiPrimeraRed.pkt        ← Archivo del laboratorio para abrir en Packet Tracer
+├── topologia.png           ← Imagen de la topología de red
+└── README.md               ← Este archivo (documentación del proyecto)
 
 ## 🚀 Cómo usarlo
 1. Descarga o clona este repositorio en tu equipo.  
@@ -32,5 +35,5 @@ MiPrimeraRed_PacketTracer/
 Si recibes respuestas, la configuración es correcta.
 6. ¡Listo! Explora la topología, haz modificaciones (por ejemplo: cambia direcciones o añade un switch extra) para practicar.
 
-![Topología de Mi Primera Red](topologia.png)
+![Topología de Mi Primera Red](topologia.jpg)
 
