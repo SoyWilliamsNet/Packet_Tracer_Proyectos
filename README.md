@@ -1,39 +1,86 @@
-# 🛰️ Proyecto: Mi Primera Red en Cisco Packet Tracer
+# 🛰️ Proyectos Cisco Packet Tracer – El Networker TI
 
-Este repositorio corresponde al laboratorio explicado en el vídeo _“Aprende a crear tu PRIMERA RED en CISCO Packet Tracer”_.  
-En él construiremos una topología básica de red con un router, un switch y dos PCs, siguiendo paso a paso la explicación y práctica para quienes están comenzando con redes.
+¡Bienvenido a mi repositorio de **laboratorios Cisco Packet Tracer**!  
+Aquí encontrarás todos los archivos `.pkt` usados en mis videos de YouTube 🎥, organizados y documentados para que puedas **aprender redes desde cero hasta la automatización**.
 
-## 📋 Objetivos del proyecto
-- Crear una topología simple usando Cisco Packet Tracer.  
-- Entender cómo conectar un router a un switch y luego a las PCs.  
-- Configurar direccionamiento IPv4 básico (IP, máscara, gateway) en los dispositivos finales.  
-- Verificar conectividad entre las PCs mediante `ping`.  
-- Introducir conceptos fundamentales de redes: router, switch, cableado, subredes.
+> 💡 Ideal si estás comenzando en el mundo de Cisco, preparándote para certificaciones (como **CCNA** o **DEVNET Associate**), o simplemente quieres practicar con topologías reales.
 
-## ⚙️ Tecnologías y herramientas utilizadas
-- Cisco Packet Tracer (versión 8.x o compatible)  
-- Router Cisco (por ejemplo, modelo 2911)  
-- Switch Cisco (por ejemplo, serie 2960)  
-- PCs simuladas dentro de Packet Tracer  
-- Tema orientado a preparación para la certificación Cisco DEVNET Associate (especialmente en la parte de redes básicas y topologías)
+---
+
+## 🎯 Objetivo del repositorio
+
+Este repositorio tiene como propósito **enseñar conceptos de redes de forma práctica**, con laboratorios reproducibles y explicados paso a paso.  
+Cada carpeta corresponde a un **video de mi canal [El Networker TI](https://www.youtube.com/@ElNetworkerTI)**, donde muestro cómo construir y configurar la topología.
+
+---
 
 ## 🧩 Estructura del repositorio
-El proyecto está organizado de la siguiente manera:
+Packet_Tracer_Proyectos/
+├── 01_MiPrimeraRed/                   ← Topología básica (router + switch + 2 PCs)
+├── 02_Red_OSPF_VLANs/                 ← OSPF + VLANs + trunking
+├── 03_NAT_y_DHCP/                     ← Traducción de direcciones y DHCP server
+├── 04_Servidor_Web_y_DNS/             ← Implementación de servidor web y DNS interno
+├── 05_Acceso_Remoto_SSH/              ← Configuración de SSH y seguridad en routers
+└── ...                                ← Más laboratorios próximamente
 
-MiPrimeraRed_PacketTracer/
-├── MiPrimeraRed.pkt        ← Archivo del laboratorio para abrir en Packet Tracer
-├── topologia.png           ← Imagen de la topología de red
-└── README.md               ← Este archivo (documentación del proyecto)
+Cada carpeta incluye:
+📁 El archivo .pkt con la topología.
+🧾 Un README.md con descripción, objetivos y comandos usados.
+🖼️ Una imagen o diagrama (.png) de la topología.
+🔗 Enlace al video correspondiente en YouTube.
 
-## 🚀 Cómo usarlo
-1. Descarga o clona este repositorio en tu equipo.  
-2. Abre el archivo `MiPrimeraRed.pkt` con Cisco Packet Tracer.  
-3. En los dispositivos PC1 y PC2, asegúrate de que la dirección IP y gateway están correctamente configurados (tal como se muestra en el vídeo).  
-4. En el router, verifica que la interfaz conectada al switch esté activada (`no shutdown`) y tenga la IP asignada correctamente.  
-5. En una de las PCs, abre la terminal y ejecuta:
-   ping <IP de la otra PC>
-Si recibes respuestas, la configuración es correcta.
-6. ¡Listo! Explora la topología, haz modificaciones (por ejemplo: cambia direcciones o añade un switch extra) para practicar.
+🔔 Suscríbete a mi canal para ver cada nuevo laboratorio:
+https://www.youtube.com/@ElNetworkerTI?sub_confirmation=1
 
-![Topología de Mi Primera Red](topologia.jpg)
+⚙️ Tecnologías y conceptos abordados
+🌐 Cisco Packet Tracer 8.x
+🧠 Modelos OSI y TCP/IP
+⚡ Configuración de routers y switches
+🔄 Enrutamiento estático y dinámico (OSPF, RIP, EIGRP)
+🧱 VLANs, VTP, Trunking
+🌍 NAT, PAT y DHCP
+🔐 SSH, seguridad básica y acceso remoto
+🧩 Integración con Python y DEVNET (futuro contenido)
 
+💻 Cómo usar los proyectos
+Clona o descarga este repositorio:
+git clone https://github.com/ElNetworkerTI/Packet_Tracer_Proyectos.git
+Abre la carpeta del laboratorio que quieras practicar.
+Abre el archivo .pkt con Cisco Packet Tracer (v8 o superior).
+Sigue las instrucciones dentro del README.md de cada carpeta.
+¡Aprende, practica y domina las redes! 🧠
+
+🧠 ¿Por qué este repositorio?
+
+Porque aprender redes no tiene que ser aburrido.
+Aquí combino teoría + práctica + explicación visual, para ayudarte a entender lo que haces, no solo memorizar comandos.
+Mi enfoque:
+“Aprende redes pensando como desarrollador, y programa como ingeniero de redes.”
+
+🧑‍💻 Autor
+
+👋 Williams Padilla — El Networker TI
+
+📍 Técnico especialista en redes, seguridad, automatización y soporte TI.
+🎯 En camino a la certificación Cisco DEVNET Associate.
+💬 Comparte conocimiento sobre redes, Linux, automatización y tecnología.
+
+📫 Conecta conmigo:
+YouTube
+LinkedIn
+GitHub
+
+🧰 Próximas mejoras del repositorio
+📘 Agregar documentación detallada (comandos CLI y diagramas).
+🧪 Nuevos laboratorios DEVNET (APIs, Python + Cisco Sandbox).
+🧾 Plantillas base para prácticas automatizadas.
+🔄 Integración con herramientas de automatización (Ansible, Netmiko, etc).
+
+
+📜 Licencia
+Este repositorio es de uso educativo y libre distribución bajo licencia MIT.
+Si utilizas parte del contenido, menciona la fuente:
+💬 “Basado en los laboratorios de El Networker TI (YouTube)”
+
+⭐ Si este contenido te ayudó, no olvides dejar una estrella en el repositorio para apoyar el proyecto.
+¡Cada ⭐ motiva a seguir creando más laboratorios y tutoriales gratuitos!
