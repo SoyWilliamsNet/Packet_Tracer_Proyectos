@@ -38,8 +38,11 @@ A través de este ejercicio práctico aprenderás a crear, asignar y probar VLAN
 
 ## 📂 Estructura del repositorio
 VLANs_PacketTracer/
+
 ├── Que son las VLANs Aprende con un solo Switch en Cisco Packet Tracer.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── Que_son_las_VLANs_Aprende_con_un_solo_Switch_en_Cisco_Packet_Tracer.jpg ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
