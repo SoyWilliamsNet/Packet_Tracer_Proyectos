@@ -5,8 +5,8 @@ En este laboratorio aprenderás a configurar **VLAN Routing utilizando un switch
 Esta práctica te permitirá comprender cómo un **switch de capa 3 puede enrutar tráfico entre VLANs**, eliminando la necesidad de un router externo.
 
 🔗 **Video del laboratorio:**  
-🎥 [Cómo Configurar VLAN Routing en Switch Capa 3 con SVI en Packet Tracer](https://youtu.be/XXXXX)  
-*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
+🎥 [Cómo Configurar VLAN Routing en Switch Capa 3 con SVI en Packet Tracer](https://youtu.be/-z5mDQ6zIHI)  
+
 
 ---
 
@@ -39,8 +39,8 @@ Esta práctica te permitirá comprender cómo un **switch de capa 3 puede enruta
 ## 📂 Estructura del repositorio
 
 VLANRouting_SVI_PacketTracer/
-├── VLANRouting_SVI.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaVLANRouting_SVI.jpg ← Imagen de la topología del proyecto
+├── Cómo Configurar VLAN Routing en Switch Capa 3 con SVI en Packet Tracer .pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── Como_Configurar_VLAN_Routing_en_Switch_Capa_3_con_SVI_en_Packet_Tracer.jpg ← Imagen de la topología del proyecto
 └── README.md ← Documentación del laboratorio
 
 
@@ -58,7 +58,7 @@ VLANRouting_SVI_PacketTracer/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](TopologiaVLANRouting_SVI.jpg)
+![Topología del laboratorio](Como_Configurar_VLAN_Routing_en_Switch_Capa_3_con_SVI_en_Packet_Tracer.jpg)
 
 ---
 
