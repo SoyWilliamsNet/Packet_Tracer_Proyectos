@@ -5,8 +5,8 @@ Este laboratorio demuestra cómo configurar **enrutamiento estático** entre dos
 Forma parte de la serie educativa en mi canal de YouTube, donde se explica paso a paso cómo lograr que varias empresas se comuniquen entre sí mediante routers Cisco configurados manualmente.
 
 🔗 **Video del laboratorio:**  
-🎥 [ENRUTAMIENTO Estático en Cisco Packet Tracer | Conecta Empresas Paso a Paso](https://youtu.be/XXXXX)  
-*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
+🎥 [ENRUTAMIENTO Estático en Cisco Packet Tracer | Conecta Empresas Paso a Paso](https://youtu.be/vt_xoZQo82A)  
+
 
 ---
 
@@ -37,8 +37,8 @@ Forma parte de la serie educativa en mi canal de YouTube, donde se explica paso 
 
 ## 📂 Estructura del repositorio
 EnrutamientoEstatico_PacketTracer/
-├── EnrutamientoEstatico.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaEnrutamiento.jpg ← Imagen de la topología del proyecto
+├── ENRUTAMIENTO Estático en Cisco Packet Tracer - Conecta Empresas Paso a Paso.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── ENRUTAMIENTO_Estático_en_Cisco_Packet_Tracer-Conecta_Empresas_Paso_a_Paso.jpg ← Imagen de la topología del proyecto
 └── README.md ← Documentación del laboratorio
 
 
@@ -56,7 +56,7 @@ EnrutamientoEstatico_PacketTracer/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](TopologiaEnrutamiento.jpg)
+![Topología del laboratorio](ENRUTAMIENTO_Estático_en_Cisco_Packet_Tracer-Conecta_Empresas_Paso_a_Paso.jpg)
 
 ---
 
