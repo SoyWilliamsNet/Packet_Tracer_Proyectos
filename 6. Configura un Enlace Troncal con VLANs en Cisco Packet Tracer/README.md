@@ -38,8 +38,11 @@ Este ejercicio te permitirá entender cómo se comunican múltiples VLANs entre 
 
 ## 📂 Estructura del repositorio
 TroncalVLANs_PacketTracer/
+
 ├── Configura un Enlace Troncal con VLANs en Cisco Packet Tracer.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── Configura_un_Enlace_Troncal_con_VLANs_en_Cisco_Packet_Tracer.jpg ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
