@@ -53,8 +53,11 @@ TEMPLATE = """# {title}
 
 ## 📂 Estructura del repositorio
 {folder}/
+
 ├── {pkt_file} ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── {image_file} ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
