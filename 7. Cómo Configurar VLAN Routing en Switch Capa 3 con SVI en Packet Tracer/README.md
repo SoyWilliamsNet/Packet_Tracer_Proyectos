@@ -39,8 +39,11 @@ Esta práctica te permitirá comprender cómo un **switch de capa 3 puede enruta
 ## 📂 Estructura del repositorio
 
 VLANRouting_SVI_PacketTracer/
+
 ├── Cómo Configurar VLAN Routing en Switch Capa 3 con SVI en Packet Tracer .pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── Como_Configurar_VLAN_Routing_en_Switch_Capa_3_con_SVI_en_Packet_Tracer.jpg ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
