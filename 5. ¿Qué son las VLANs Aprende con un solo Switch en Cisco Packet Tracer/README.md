@@ -5,8 +5,8 @@ Este laboratorio explica de forma sencilla qué son las **VLANs (Redes LAN Virtu
 A través de este ejercicio práctico aprenderás a crear, asignar y probar VLANs para separar departamentos o áreas dentro de una misma red física.
 
 🔗 **Video del laboratorio:**  
-🎥 [Qué son las VLANs | Aprende con un solo Switch en Cisco Packet Tracer](https://youtu.be/XXXXX)  
-*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
+🎥 [Qué son las VLANs | Aprende con un solo Switch en Cisco Packet Tracer](https://youtu.be/8gmaVUo7Wk4)  
+
 
 ---
 
@@ -38,8 +38,8 @@ A través de este ejercicio práctico aprenderás a crear, asignar y probar VLAN
 
 ## 📂 Estructura del repositorio
 VLANs_PacketTracer/
-├── VLANs_Switch.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaVLANs.jpg ← Imagen de la topología del proyecto
+├── Que son las VLANs Aprende con un solo Switch en Cisco Packet Tracer.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── Que_son_las_VLANs_Aprende_con_un_solo_Switch_en_Cisco_Packet_Tracer.jpg ← Imagen de la topología del proyecto
 └── README.md ← Documentación del laboratorio
 
 
@@ -57,7 +57,7 @@ VLANs_PacketTracer/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](TopologiaVLANs.jpg)
+![Topología del laboratorio](Que_son_las_VLANs_Aprende_con_un_solo_Switch_en_Cisco_Packet_Tracer.jpg)
 
 ---
 
