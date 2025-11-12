@@ -37,8 +37,11 @@ Forma parte de la serie educativa en mi canal de YouTube, donde se explica paso 
 
 ## 📂 Estructura del repositorio
 EnrutamientoEstatico_PacketTracer/
+
 ├── ENRUTAMIENTO Estático en Cisco Packet Tracer - Conecta Empresas Paso a Paso.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── ENRUTAMIENTO_Estático_en_Cisco_Packet_Tracer-Conecta_Empresas_Paso_a_Paso.jpg ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
