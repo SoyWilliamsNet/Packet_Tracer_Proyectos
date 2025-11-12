@@ -5,8 +5,8 @@ En este laboratorio aprenderás a **configurar un enlace troncal (trunk)** entre
 Este ejercicio te permitirá entender cómo se comunican múltiples VLANs entre diferentes switches y cómo se transporta la información a través de un único enlace físico.
 
 🔗 **Video del laboratorio:**  
-🎥 [Configura un Enlace Troncal con VLANs en Cisco Packet Tracer](https://youtu.be/XXXXX)  
-*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
+🎥 [Configura un Enlace Troncal con VLANs en Cisco Packet Tracer](https://youtu.be/OE97sHBV2EQ)  
+
 
 ---
 
@@ -38,8 +38,8 @@ Este ejercicio te permitirá entender cómo se comunican múltiples VLANs entre 
 
 ## 📂 Estructura del repositorio
 TroncalVLANs_PacketTracer/
-├── TroncalVLANs.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaTroncalVLANs.jpg ← Imagen de la topología del proyecto
+├── Configura un Enlace Troncal con VLANs en Cisco Packet Tracer.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── Configura_un_Enlace_Troncal_con_VLANs_en_Cisco_Packet_Tracer.jpg ← Imagen de la topología del proyecto
 └── README.md ← Documentación del laboratorio
 
 
@@ -57,7 +57,7 @@ TroncalVLANs_PacketTracer/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](TopologiaTroncalVLANs.jpg)
+![Topología del laboratorio](Configura_un_Enlace_Troncal_con_VLANs_en_Cisco_Packet_Tracer.jpg)
 
 ---
 
