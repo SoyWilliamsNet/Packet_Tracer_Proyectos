@@ -19,10 +19,8 @@ Es una práctica ideal para quienes ya dominaron la red básica y desean **dar e
 ---
 
 ## 🎯 Objetivos
-- Diseñar una red con múltiples segmentos y servidores.  
-- Configurar **VLANs y direccionamiento IP por departamentos**.  
-- Establecer comunicación entre la sede principal y la nueva oficina.  
-- Implementar servicios básicos (DHCP, DNS y Web).  
+- Diseñar una red con múltiples segmentos y servidores.    
+- Establecer comunicación entre la sede principal y la nueva oficina.   
 - Verificar la conectividad y resolución de nombres.
 
 ---
@@ -30,16 +28,16 @@ Es una práctica ideal para quienes ya dominaron la red básica y desean **dar e
 ## ⚙️ Archivos incluidos
 02_ExpansionRed/
 
-├── ExpansionRed.pkt ← Archivo del laboratorio (abrir en Packet Tracer)
+├── Expansión de RED en Cisco Packet Tracer.pkt ← Archivo del laboratorio (abrir en Packet Tracer)
 
-├── topologia.jpg ← Diagrama o captura de la topología
+├── Expansión de RED en Cisco Packet Tracer.jpg ← Diagrama o captura de la topología
 
 └── README.md ← Este archivo
 
 
 ---
 🖼️ Imagen de la topología
-Expansión de RED en Cisco Packet Tracer.jpg
+Expansión_de_RED_en_Cisco_Packet_Tracer.jpg
 
 💡 Variantes para practicar
 
@@ -58,7 +56,7 @@ Williams Padilla — El Networker TI
 
 🎥 Canal oficial: YouTube / El Networker TI
 
-📂 Repositorio: Packet_Tracer_Proyectos
+Discord: https://discord.gg/TCZ42GtV
 
 📜 Licencia
 
