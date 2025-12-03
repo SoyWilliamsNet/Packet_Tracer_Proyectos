@@ -55,9 +55,14 @@ Cisco Packet Tracer 8.x; Switches Cisco; EtherChannel; LACP; PAgP; Trunking
 
 ## 📝 Notas adicionales
 
-- Proyecto educativo del canal **El Networker TI**  
-  🎬 [YouTube - El Networker TI](https://www.youtube.com/@ElNetworkerTI)  
-- Más laboratorios disponibles en:  
-  💼 [GitHub - Packet Tracer Projects](https://github.com/TU_USUARIO/TU_REPO)
+🌐 Mis redes y recursos:
+
+🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+
+🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+
+💻 GitHub: https://github.com/SoyWilliamsNet
+
+💡 Substack: https://substack.com/@soywilliamsnet
 
 ---
