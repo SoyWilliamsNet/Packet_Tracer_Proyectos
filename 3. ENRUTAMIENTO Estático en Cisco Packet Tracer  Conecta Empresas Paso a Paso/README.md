@@ -65,10 +65,11 @@ EnrutamientoEstatico_PacketTracer/
 
 ## 📝 Notas adicionales
 
-- Este proyecto forma parte de la colección de laboratorios educativos publicados en mi canal de YouTube:  
-  🎬 [El Networker TI](https://www.youtube.com/@ElNetworkerTI)  
-- Puedes explorar más proyectos similares en mi repositorio general de Packet Tracer Labs:  
-  💼 [GitHub - Packet Tracer Projects](https://github.com/TU_USUARIO/TU_REPO)
+🌐 Mis redes y recursos:
+🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+💻 GitHub: https://github.com/SoyWilliamsNet
+💡 Substack: https://substack.com/@soywilliamsnet
 
 ---
 
