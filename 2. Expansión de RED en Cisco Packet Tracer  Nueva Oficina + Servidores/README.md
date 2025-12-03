@@ -58,9 +58,13 @@ Williams Padilla
 🎥 Canal oficial: YouTube / Soy Williams Net
 
 🌐 Mis redes y recursos:
+
 🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+
 🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+
 💻 GitHub: https://github.com/SoyWilliamsNet
+
 💡 Substack: https://substack.com/@soywilliamsnet
 
 📜 Licencia
