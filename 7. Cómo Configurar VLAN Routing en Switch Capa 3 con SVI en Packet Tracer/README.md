@@ -67,10 +67,11 @@ VLANRouting_SVI_PacketTracer/
 
 ## 📝 Notas adicionales
 
-- Este laboratorio forma parte de la serie educativa de **El Networker TI**:  
-  🎬 [Canal de YouTube - El Networker TI](https://www.youtube.com/@ElNetworkerTI)  
-- Encuentra más proyectos y laboratorios en mi repositorio principal:  
-  💼 [GitHub - Packet Tracer Projects](https://github.com/TU_USUARIO/TU_REPO)
+🌐 Mis redes y recursos:
+🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+💻 GitHub: https://github.com/SoyWilliamsNet
+💡 Substack: https://substack.com/@soywilliamsnet
 
 ---
 
