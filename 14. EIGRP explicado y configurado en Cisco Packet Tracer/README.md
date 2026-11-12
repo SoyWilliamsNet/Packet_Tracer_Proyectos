@@ -38,7 +38,7 @@ EIGRP en Cisco/
 
 ├── EIGRP-Cisco.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
 
-├── EIGRP-Cisco.jpg ← Imagen de la topología del proyecto
+├── EIGRP-Cisco.png ← Imagen de la topología del proyecto
 
 └── README.md ← Documentación del laboratorio
 
@@ -56,7 +56,7 @@ EIGRP en Cisco/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](EIGRP-Cisco.jpg)
+![Topología del laboratorio](EIGRP-Cisco.png)
 
 ------------------------------------------------------------------------
 
